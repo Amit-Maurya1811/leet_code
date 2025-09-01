@@ -1,0 +1,37 @@
+//Given a string s, find the length of the longest substring without duplicate characters.
+
+class Solution {
+    public int check_dup(String w)
+    {
+        for(int j=0; j<w.length()-1; j++)
+        {
+            char c1=w.charAt(j);
+            for(int k=j+1;k<w.length();k++)
+            {
+                if(c1==w.charAt(k))
+                return 0;
+            }
+        }
+        return 1;
+    }
+    public int lengthOfLongestSubstring(String s) {
+        String s1=s;
+        int ln1=0;
+        int ln=s1.length();
+        for(int i=1;i<=ln;i++)
+        {
+            for(int l=0;l<=ln-i;l++)
+            {
+                int f=check_dup(s1.substring(l,l+i));
+                if(f==1)
+                {
+                    String ans=s1.substring(l,l+i);
+                    ln1=ans.length();
+                }
+            }
+        }
+        if(check_dup(s1)==1)
+        return ln;
+        return ln1;
+    }
+}
