@@ -1,0 +1,28 @@
+//Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+//You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+//You can return the answer in any order.
+
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        int a= nums.length;
+        int num1[]=new int [2];
+        num1[0]=0;
+        num1[1]=0;
+        for(int i=0;i<a-1;i++)
+        {
+            for(int j=i+1;j<a;j++)
+            {
+                int sum=nums[i]+nums[j];
+                if(sum==target)
+                {
+                    num1[0]=i;
+                    num1[1]=j;
+                    break;
+                }
+            }
+        }
+        return num1;
+    }
+}
