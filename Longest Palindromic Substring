@@ -1,0 +1,32 @@
+//Given a string s, return the longest palindromic substring in s.
+
+
+class Solution {
+    public String longestPalindrome(String s) {
+        int start=0,end=0;
+        if (s == null || s.length() < 1) return "";
+        for(int i=0;i<s.length();i++)
+        {
+
+            int len=check(s,i,i);
+            int len1=check(s,i,i+1);
+            int len2=Math.max(len,len1);
+
+            if(len2>end-start)
+            {
+                start=i-(len2-1)/2;
+                end=i+len2/2;
+            }
+        }
+        return s.substring(start,end+1);
+    }
+    int check(String s1,int left,int right)
+    {
+        while(left>=0 && right<s1.length() && s1.charAt(left)==s1.charAt(right))
+        {
+            left--;
+            right++;
+        }
+        return right-left-1;
+    }
+}
