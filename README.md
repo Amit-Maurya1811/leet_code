@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Amit-Maurya1811/leet_code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Amit-Maurya1811/leet_code/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Amit-Maurya1811/leet_code/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Amit-Maurya1811/leet_code/tree/master/0049-group-anagrams) |
 | [0705-design-hashset](https://github.com/Amit-Maurya1811/leet_code/tree/master/0705-design-hashset) |
 ## Binary Search
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Amit-Maurya1811/leet_code/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Amit-Maurya1811/leet_code/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Amit-Maurya1811/leet_code/tree/master/0049-group-anagrams) |
 | [0705-design-hashset](https://github.com/Amit-Maurya1811/leet_code/tree/master/0705-design-hashset) |
 ## Matrix
 |  |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Amit-Maurya1811/leet_code/tree/master/0705-design-hashset) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Amit-Maurya1811/leet_code/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Amit-Maurya1811/leet_code/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
