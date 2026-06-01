@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Amit-Maurya1811/leet_code/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Amit-Maurya1811/leet_code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Amit-Maurya1811/leet_code/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Amit-Maurya1811/leet_code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Amit-Maurya1811/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0705-design-hashset](https://github.com/Amit-Maurya1811/leet_code/tree/master/0705-design-hashset) |
 ## Binary Search
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Amit-Maurya1811/leet_code/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Amit-Maurya1811/leet_code/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
