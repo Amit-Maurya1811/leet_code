@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/Amit-Maurya1811/leet_code/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Amit-Maurya1811/leet_code/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Amit-Maurya1811/leet_code/tree/master/0058-length-of-last-word) |
 ## Sorting
 |  |
 | ------- |
