@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Amit-Maurya1811/leet_code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Amit-Maurya1811/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0705-design-hashset](https://github.com/Amit-Maurya1811/leet_code/tree/master/0705-design-hashset) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amit-Maurya1811/leet_code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
 |  |
 | ------- |
