@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Amit-Maurya1811/leet_code/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Amit-Maurya1811/leet_code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Amit-Maurya1811/leet_code/tree/master/0058-length-of-last-word) |
+| [1768-merge-strings-alternately](https://github.com/Amit-Maurya1811/leet_code/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Amit-Maurya1811/leet_code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Amit-Maurya1811/leet_code/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Amit-Maurya1811/leet_code/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
