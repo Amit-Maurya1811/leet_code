@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Amit-Maurya1811/leet_code/tree/master/0605-can-place-flowers) |
 | [0705-design-hashset](https://github.com/Amit-Maurya1811/leet_code/tree/master/0705-design-hashset) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amit-Maurya1811/leet_code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Amit-Maurya1811/leet_code/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Amit-Maurya1811/leet_code/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Amit-Maurya1811/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0705-design-hashset](https://github.com/Amit-Maurya1811/leet_code/tree/master/0705-design-hashset) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Amit-Maurya1811/leet_code/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Amit-Maurya1811/leet_code/tree/master/0049-group-anagrams) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Amit-Maurya1811/leet_code/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Amit-Maurya1811/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Amit-Maurya1811/leet_code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Amit-Maurya1811/leet_code/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Amit-Maurya1811/leet_code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Amit-Maurya1811/leet_code/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
