@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Amit-Maurya1811/leet_code/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Amit-Maurya1811/leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amit-Maurya1811/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Amit-Maurya1811/leet_code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Amit-Maurya1811/leet_code/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amit-Maurya1811/leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Amit-Maurya1811/leet_code/tree/master/1768-merge-strings-alternately) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Amit-Maurya1811/leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Amit-Maurya1811/leet_code/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amit-Maurya1811/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Amit-Maurya1811/leet_code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Amit-Maurya1811/leet_code/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/Amit-Maurya1811/leet_code/tree/master/1768-merge-strings-alternately) |
 ## Greedy
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Amit-Maurya1811/leet_code/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Amit-Maurya1811/leet_code/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
