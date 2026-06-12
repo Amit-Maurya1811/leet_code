@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Amit-Maurya1811/leet_code/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Amit-Maurya1811/leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amit-Maurya1811/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Amit-Maurya1811/leet_code/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amit-Maurya1811/leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Amit-Maurya1811/leet_code/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Amit-Maurya1811/leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amit-Maurya1811/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Amit-Maurya1811/leet_code/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/Amit-Maurya1811/leet_code/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
