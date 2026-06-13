@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Amit-Maurya1811/leet_code/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Amit-Maurya1811/leet_code/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Amit-Maurya1811/leet_code/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Amit-Maurya1811/leet_code/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/Amit-Maurya1811/leet_code/tree/master/0705-design-hashset) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amit-Maurya1811/leet_code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Amit-Maurya1811/leet_code/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Amit-Maurya1811/leet_code/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Amit-Maurya1811/leet_code/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
