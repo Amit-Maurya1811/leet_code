@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Amit-Maurya1811/leet_code/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Amit-Maurya1811/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Amit-Maurya1811/leet_code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Amit-Maurya1811/leet_code/tree/master/0142-linked-list-cycle-ii) |
 | [0705-design-hashset](https://github.com/Amit-Maurya1811/leet_code/tree/master/0705-design-hashset) |
 | [1207-unique-number-of-occurrences](https://github.com/Amit-Maurya1811/leet_code/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Amit-Maurya1811/leet_code/tree/master/1657-determine-if-two-strings-are-close) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Amit-Maurya1811/leet_code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Amit-Maurya1811/leet_code/tree/master/0142-linked-list-cycle-ii) |
 | [0705-design-hashset](https://github.com/Amit-Maurya1811/leet_code/tree/master/0705-design-hashset) |
 ## Design
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amit-Maurya1811/leet_code/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Amit-Maurya1811/leet_code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Amit-Maurya1811/leet_code/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Amit-Maurya1811/leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Amit-Maurya1811/leet_code/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amit-Maurya1811/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -137,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Amit-Maurya1811/leet_code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Amit-Maurya1811/leet_code/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
